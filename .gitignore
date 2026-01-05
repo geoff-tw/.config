@@ -4,6 +4,7 @@ direnv
 op
 github-copilot
 git
+jgit
 
 .DS_Store
 gcloud
