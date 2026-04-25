@@ -23,7 +23,8 @@ alias cd="z"
 # Eza (better ls)
 alias ls="eza --icons=always"
 
-alias v="NVIM_APPNAME=nvim-new ~/nvim-macos-x86_64/bin/nvim"
+alias v="nvim"
+alias t="tmux --kill-server; tmux"
 
 # Node 22
 export PATH="/opt/homebrew/opt/node@22/bin:$PATH"
